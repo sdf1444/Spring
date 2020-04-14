@@ -1,0 +1,13 @@
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
+
+<html>
+<head>
+	<title>Hello World - Input Form</title>
+</head>
+
+<body>
+
+
+</body>
+
+</html>

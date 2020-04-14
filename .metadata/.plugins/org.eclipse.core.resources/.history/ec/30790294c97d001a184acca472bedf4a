@@ -1,0 +1,7 @@
+package com.luv2code.springboot.thymeleafdemo.controller;
+
+@Controller
+public class DemoController {
+	
+	// create a mapping for "/hello"
+}

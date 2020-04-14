@@ -1,0 +1,10 @@
+package com.luv2code.springboot.thymeleafdemo.controller;
+
+@Controller
+@RequestMapping("/employees")
+public class EmployeeController {
+	
+	// load employee data
+	
+	// add mapping for "/list"
+}

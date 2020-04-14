@@ -1,0 +1,7 @@
+package com.luv2code.springboot.thymeleafdemo.model;
+
+public class Employee {
+	
+	private int id;
+	private String firstName;
+}

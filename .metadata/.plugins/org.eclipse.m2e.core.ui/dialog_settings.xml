@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.luv2code.springboot.demo"/>
+		</list>
+		<list key="name">
+			<item value="mycoolapp"/>
+		</list>
+		<list key="artifactId">
+			<item value="mycoolapp"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Spencer Du\Downloads\thymeleafdemo\thymeleafdemo"/>
+			<item value="C:\Users\Spencer Du\Downloads\original (57)\21-hibernate-with-service-demo"/>
+			<item value="C:\Users\Spencer Du\Downloads\cruddemo\cruddemo"/>
+			<item value="C:\Users\Spencer Du\Downloads\original (54)\03-actuator-demo-with-spring-security"/>
+			<item value="C:\Users\Spencer Du\Downloads\original (52)\mycoolapp"/>
+			<item value="C:\Users\Spencer Du\Downloads\mycoolapp (3)\mycoolapp"/>
+			<item value="C:\Users\Spencer Du\Downloads\original (50)\mycoolapp"/>
+			<item value="C:\Users\Spencer Du\Downloads\mycoolapp\mycoolapp"/>
+			<item value="C:\Users\Spencer Du\Downloads\mycoolapp"/>
+			<item value="C:\Users\Spencer Du\Downloads\original (47)\spring-crm-rest-demo"/>
+			<item value="C:\Users\Spencer Du\Downloads\original (46)\solution-code-spring-rest-demo-hello-world"/>
+			<item value="C:\Users\Spencer Du\Downloads\jackson-databinding-json-demo\jackson-databinding-json-demo"/>
+			<item value="C:\Users\Spencer Du\Downloads\original (38)\spring-security-demo-starter\spring-security-demo-01-base-app"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

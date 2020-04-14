@@ -1,0 +1,8 @@
+<!DOCTYPE HTML>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+	<title>Employee Directory</title>
+</head>
+
+</html>
